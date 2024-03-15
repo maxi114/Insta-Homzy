@@ -2,7 +2,7 @@ import { useAuth0 } from "@auth0/auth0-react";
 import { Box, Button, Group, NumberInput } from "@mantine/core";
 import { useForm } from "@mantine/form";
 import React, { useContext } from "react";
-import UserDetailContext from "../../context/UserDetailContext.js";
+import UserDetailContext from "../../Context/UserDetailContext.js";
 import useProperties from "../../hooks/useProperties.jsx";
 import { useMutation } from "react-query";
 import { toast } from "react-toastify";

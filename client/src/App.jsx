@@ -10,7 +10,7 @@ import { ReactQueryDevtools } from "react-query/devtools";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Property from "./pages/property/property";
-import UserDetailContext from "./context/UserDetailContext.js";
+import UserDetailContext from "./Context/UserDetailContext.js";
 import Bookings from "./pages/Bookings/Bookings";
 import Favourites from "./pages/Favorites/Favorites.jsx";
 
