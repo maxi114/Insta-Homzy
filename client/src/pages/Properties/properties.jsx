@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import SearchBar from "../../components/SearchBar/SearchBar.jsx";
-import "./Properties.css";
+import "./properties.css";
 import useProperties from "../../hooks/useProperties";
 import { PuffLoader } from "react-spinners";
 import PropertyCard from "../../components/PropertyCard/PropertyCard";
