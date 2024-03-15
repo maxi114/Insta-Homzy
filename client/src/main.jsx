@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       authorizationParams={{
         redirect_uri: "http://localhost:5173",
       }}
-      audience="http://localhost:5000"
+      audience="https://vercel.com/maxs-projects-3b80ac42/homzy-server"
       scope = "openid profile email"
     >
       <App />
