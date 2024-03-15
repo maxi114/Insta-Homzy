@@ -13,9 +13,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-f3olnqmxief3koua.us.auth0.com"
       clientId="km400Rnjp4wa2jUhwenqpSg0d1OmWwH7"
       authorizationParams={{
-        redirect_uri: "http://localhost:5173",
+        redirect_uri: "https://homzy2-eight.vercel.app/",
       }}
-      audience="https://vercel.com/maxs-projects-3b80ac42/homzy-server"
+      audience="https://homzy-server.vercel.app/"
       scope = "openid profile email"
     >
       <App />

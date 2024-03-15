@@ -3,7 +3,7 @@ import dayjs from "dayjs";
 import { toast } from "react-toastify";
 
 export const api = axios.create({
-  baseURL: "https://vercel.com/maxs-projects-3b80ac42/homzy-server/api",
+  baseURL: "https://homzy-server.vercel.app/api",
 });
 
 export const getAllProperties = async () => {
