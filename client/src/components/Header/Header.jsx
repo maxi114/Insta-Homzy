@@ -44,7 +44,7 @@ function Header() {
         >
           <div className="flexCenter h-menu" style={getMenuStyles(menuOpened)}>
             <NavLink to="/properties">Properties</NavLink>
-            <a href="">Contact</a>
+            <a href="https://idxnest.pages.dev/ " target="_blank">Contact</a>
 
             {/* add property */}
             <div onClick={handleAddPropertyClick}>Add Property</div>

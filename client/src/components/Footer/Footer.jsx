@@ -18,13 +18,9 @@ const Footer = () => {
         {/*righ side*/}
         <div className="flexColStart f-right">
           <span className="primaryText">Information</span>
-          <span className="secondaryText">123 Idaho, AL 123 </span>
 
           <div className="flexCenter f-menu">
-            <span>Property</span>
-            <span>Services</span>
-            <span>Product</span>
-            <span>About Us</span>
+            <span> <a href="https://idxnest.pages.dev/" target="_blank" style={{textDecoration: "underline"}}>Built by Max</a> </span>
           </div>
         </div>
       </div>
