@@ -26,7 +26,7 @@ const Value = () => {
         {/* right side */}
         <div className="flexColStart v-right">
           <span className="orangeText">Our Value</span>
-          <span className="primaryText">Value We Gve to You</span>
+          <span className="primaryText">Value We Give You</span>
           <span className="secondaryText">
             We always ready to help by providing the best servces for you.{" "}
             <br />
